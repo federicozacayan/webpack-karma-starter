@@ -1,0 +1,32 @@
+{
+  "name": "ipMask",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.1.2",
+    "@babel/preset-env": "^7.1.0",
+    "babel-loader": "^8.0.4",
+    "clean-webpack-plugin": "^0.1.19",
+    "istanbul-instrumenter-loader": "^3.0.1",
+    "jasmine-core": "^3.2.1",
+    "karma": "^3.0.0",
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-coverage": "^1.1.2",
+    "karma-coverage-istanbul-reporter": "^2.0.4",
+    "karma-jasmine": "^1.1.2",
+    "karma-remap-coverage": "^0.1.5",
+    "karma-sourcemap-loader": "^0.3.7",
+    "karma-webpack": "^3.0.5",
+    "protractor": "^5.4.1",
+    "source-map-loader": "^0.2.4",
+    "webpack": "^4.21.0",
+    "webpack-cli": "^3.1.2"
+  }
+}
