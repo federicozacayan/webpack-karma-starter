@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "karma",
+    "coverage": "codecov"
   },
   "keywords": [],
   "author": "",
@@ -27,6 +28,6 @@
     "protractor": "^5.4.1",
     "source-map-loader": "^0.2.4",
     "webpack": "^4.21.0",
-    "webpack-cli": "^3.1.2"
+    "webpack-cli": "^3.1.2",
   }
 }
