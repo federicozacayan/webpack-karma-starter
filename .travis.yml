@@ -7,6 +7,6 @@ node_js:
 before_install:
   - export CODECOV_TOKEN=CODECOV_TOKEN
 script: 
-  - npm test:ci
+  - npm run test:ci
 after_success:
  - npm run coverage
