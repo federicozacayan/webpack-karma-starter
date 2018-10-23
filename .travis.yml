@@ -4,8 +4,6 @@ addons:
 language: node_js
 node_js:
   - stable
-before_install:
-  - export CODECOV_TOKEN=CODECOV_TOKEN
 script: 
   - npm run test:ci
 after_success:
