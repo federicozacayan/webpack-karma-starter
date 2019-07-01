@@ -1,2 +1,3 @@
 [![Build](https://travis-ci.org/eustatos/webpack-karma-starter.svg?branch=master)](https://travis-ci.org/eustatos/webpack-karma-starter)
-[![codecov.io](https://codecov.io/github/eustatos/webpack-karma-starter/coverage.svg?branch=master)](https://codecov.io/github/eustatos/webpack-karma-starter?branch=master)
+[![codecov](https://codecov.io/gh/eustatos/webpack-karma-starter/branch/master/graph/badge.svg)](https://codecov.io/gh/eustatos/webpack-karma-starter)
+
