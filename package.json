@@ -1,7 +1,7 @@
 {
-  "name": "ipMask",
+  "name": "webpack-karma-starter",
   "version": "1.0.0",
-  "description": "",
+  "description": "seed project for javascript development wits es6, karmajs and webpack",
   "main": "index.js",
   "scripts": {
     "test": "karma start",
