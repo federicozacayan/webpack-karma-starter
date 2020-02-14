@@ -6,3 +6,11 @@ function test(a) {
 }
 
 export default test;
+
+class A
+{
+    run(){
+        return true
+    }
+}
+export {A};
