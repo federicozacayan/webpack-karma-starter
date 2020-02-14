@@ -9,13 +9,9 @@ This is a basic Hello-Wolrd application.
 
 - A browser.
 - Internet access.
-- Npm.
+- Node installed.
 - Git installed.
 
-
-## Set up
-
-It is assumed it is used linux environment.
 
 ### Prepare
 
@@ -50,7 +46,7 @@ You can find a tutorial of this project in the following site.
 
 ## Usage
 
-Any file ending '.spec.js' in the src folder will be consider a test. Chek karma.conf.js in the root folder.
+Any file ending `.spec.js` in the `src` folder will be consider a test. Check karma.conf.js in the root folder.
 
 ```json
 files: [
